@@ -1,2 +1,2 @@
-# Github_Portfolio_Project
+# Github Portfolio Project
 GitHub Portfolio Project
